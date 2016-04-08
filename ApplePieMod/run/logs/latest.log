@@ -1,0 +1,186 @@
+[10:40:27] [main/INFO]: Extra: []
+[10:40:27] [main/INFO]: Running with arguments: [--userProperties, {}, --assetsDir, /Users/sandicashiola/.gradle/caches/minecraft/assets, --assetIndex, 1.8, --accessToken{REDACTED}, --version, 1.8.9, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[10:40:27] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:40:28] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:40:28] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[10:40:28] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:40:28] [main/INFO]: Forge Mod Loader version 11.15.1.1722 for Minecraft 1.8.9 loading
+[10:40:28] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_77, running on Mac OS X:x86_64:10.9.5, installed at /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre
+[10:40:28] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[10:40:28] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[10:40:28] [main/INFO]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[10:40:28] [main/INFO]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[10:40:28] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:40:28] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:40:28] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[10:40:28] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:40:28] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:40:28] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:40:28] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+[10:40:31] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[10:40:31] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:40:31] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:40:33] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[10:40:33] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[10:40:33] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[10:40:33] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[10:40:36] [Client thread/INFO]: Setting user: Player862
+[10:40:44] [Client thread/INFO]: LWJGL Version: 2.9.2
+[10:40:46] [Client thread/INFO]: Could not load splash.properties, will create a default one
+[10:40:46] [Client thread/INFO]: MinecraftForge v11.15.1.1722 Initialized
+[10:40:46] [Client thread/INFO]: Replaced 204 ore recipies
+[10:40:47] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[10:40:47] [Client thread/INFO]: Searching /Users/sandicashiola/Desktop/ApplePieMod/run/mods for mods
+[10:40:49] [Client thread/INFO]: Forge Mod Loader has identified 4 mods to load
+[10:40:50] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, examplemod] at CLIENT
+[10:40:50] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, examplemod] at SERVER
+[10:40:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[10:40:50] [Client thread/INFO]: Processing ObjectHolder annotations
+[10:40:50] [Client thread/INFO]: Found 384 ObjectHolder annotations
+[10:40:50] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[10:40:50] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[10:40:51] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[10:40:51] [Forge Version Check/INFO]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[10:40:51] [Client thread/INFO]: Applying holder lookups
+[10:40:51] [Client thread/INFO]: Holder lookups applied
+[10:40:51] [Client thread/INFO]: Injecting itemstacks
+[10:40:51] [Client thread/INFO]: Itemstack injection complete
+[10:40:51] [Forge Version Check/INFO]: [Forge] Found status: UP_TO_DATE Target: null
+[10:40:51] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[10:40:52] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[10:40:52] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[10:40:52] [Thread-6/INFO]: OpenAL initialized.
+[10:40:52] [Sound Library Loader/INFO]: Sound engine started
+[10:40:57] [Client thread/INFO]: Max texture size: 4096
+[10:40:57] [Client thread/INFO]: Created: 16x16 textures-atlas
+[10:40:59] [Client thread/INFO]: Injecting itemstacks
+[10:40:59] [Client thread/INFO]: Itemstack injection complete
+[10:40:59] [Client thread/INFO]: Forge Mod Loader has successfully loaded 4 mods
+[10:40:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[10:40:59] [Client thread/INFO]: SoundSystem shutting down...
+[10:41:00] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[10:41:00] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[10:41:00] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[10:41:00] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[10:41:00] [Thread-8/INFO]: OpenAL initialized.
+[10:41:00] [Sound Library Loader/INFO]: Sound engine started
+[10:41:03] [Client thread/INFO]: Max texture size: 4096
+[10:41:04] [Client thread/INFO]: Created: 512x512 textures-atlas
+[10:41:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:41:05] [Client thread/ERROR]: @ Post startup
+[10:41:05] [Client thread/ERROR]: 1281: Invalid value
+[10:41:06] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[10:42:02] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
+[10:42:02] [Server thread/INFO]: Generating keypair
+[10:42:02] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[10:42:02] [Server thread/INFO]: Converting map!
+[10:42:02] [Server thread/INFO]: Scanning folders...
+[10:42:02] [Server thread/INFO]: Total conversion count is 0
+[10:42:03] [Server thread/INFO]: Injecting existing block and item data into this server instance
+[10:42:03] [Server thread/INFO]: Applying holder lookups
+[10:42:03] [Server thread/INFO]: Holder lookups applied
+[10:42:03] [Server thread/INFO]: Loading dimension 0 (ModTESTINGWORLD) (net.minecraft.server.integrated.IntegratedServer@bd6c5e4)
+[10:42:03] [Server thread/INFO]: Loading dimension 1 (ModTESTINGWORLD) (net.minecraft.server.integrated.IntegratedServer@bd6c5e4)
+[10:42:03] [Server thread/INFO]: Loading dimension -1 (ModTESTINGWORLD) (net.minecraft.server.integrated.IntegratedServer@bd6c5e4)
+[10:42:03] [Server thread/INFO]: Preparing start region for level 0
+[10:42:04] [Server thread/INFO]: Preparing spawn area: 4%
+[10:42:05] [Server thread/INFO]: Preparing spawn area: 6%
+[10:42:06] [Server thread/INFO]: Preparing spawn area: 9%
+[10:42:07] [Server thread/INFO]: Preparing spawn area: 14%
+[10:42:08] [Server thread/INFO]: Preparing spawn area: 18%
+[10:42:09] [Server thread/INFO]: Preparing spawn area: 25%
+[10:42:10] [Server thread/INFO]: Preparing spawn area: 33%
+[10:42:11] [Server thread/INFO]: Preparing spawn area: 41%
+[10:42:12] [Server thread/INFO]: Preparing spawn area: 50%
+[10:42:13] [Server thread/INFO]: Preparing spawn area: 59%
+[10:42:14] [Server thread/INFO]: Preparing spawn area: 66%
+[10:42:15] [Server thread/INFO]: Preparing spawn area: 76%
+[10:42:16] [Server thread/INFO]: Preparing spawn area: 86%
+[10:42:17] [Server thread/INFO]: Preparing spawn area: 96%
+[10:42:18] [Server thread/INFO]: Changing view distance to 12, from 10
+[10:42:18] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[10:42:19] [Netty Local Client IO #0/INFO]: Server protocol version 2
+[10:42:19] [Netty Server IO #1/INFO]: Client protocol version 2
+[10:42:19] [Netty Server IO #1/INFO]: Client attempting to join with 4 mods : FML@8.0.99.99,Forge@11.15.1.1722,mcp@9.19,examplemod@1.0
+[10:42:19] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
+[10:42:19] [Server thread/INFO]: [Server thread] Server side modded connection established
+[10:42:19] [Server thread/INFO]: Player862[local:E:fc28595a] logged in with entity id 365 at (199.5, 62.0, 197.5)
+[10:42:20] [Server thread/INFO]: Player862 joined the game
+[10:42:21] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@faaa74[id=ff77e115-0eac-3fde-846a-00b8d6de38b0,name=Player862,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:65) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:175) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:59) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:56) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3524) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2317) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2280) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2195) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3934) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:3938) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4821) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:4827) [guava-17.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:165) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.Minecraft.func_181037_M(Minecraft.java:2778) [Minecraft.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SourceFile:106) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_77]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_77]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_77]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_77]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_77]
+[10:42:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4288ms behind, skipping 85 tick(s)
+[10:42:29] [Server thread/INFO]: Saving and pausing game...
+[10:42:29] [Server thread/INFO]: Saving chunks for level 'ModTESTINGWORLD'/Overworld
+[10:42:34] [Server thread/INFO]: Saving chunks for level 'ModTESTINGWORLD'/Nether
+[10:42:34] [Server thread/INFO]: Saving chunks for level 'ModTESTINGWORLD'/The End
+[10:42:35] [Server thread/INFO]: Stopping server
+[10:42:35] [Server thread/INFO]: Saving players
+[10:42:35] [Server thread/INFO]: Saving worlds
+[10:42:35] [Server thread/INFO]: Saving chunks for level 'ModTESTINGWORLD'/Overworld
+[10:42:35] [Server thread/INFO]: Saving chunks for level 'ModTESTINGWORLD'/Nether
+[10:42:35] [Server thread/INFO]: Saving chunks for level 'ModTESTINGWORLD'/The End
+[10:42:36] [Server thread/INFO]: Unloading dimension 0
+[10:42:36] [Server thread/INFO]: Unloading dimension -1
+[10:42:36] [Server thread/INFO]: Unloading dimension 1
+[10:42:36] [Server thread/INFO]: Applying holder lookups
+[10:42:36] [Server thread/INFO]: Holder lookups applied
+[10:42:38] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[10:42:53] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
+[10:42:53] [Server thread/INFO]: Generating keypair
+[10:42:53] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[10:42:53] [Server thread/INFO]: Converting map!
+[10:42:53] [Server thread/INFO]: Scanning folders...
+[10:42:53] [Server thread/INFO]: Total conversion count is 0
+[10:42:53] [Server thread/INFO]: Injecting existing block and item data into this server instance
+[10:42:53] [Server thread/INFO]: Applying holder lookups
+[10:42:53] [Server thread/INFO]: Holder lookups applied
+[10:42:53] [Server thread/INFO]: Loading dimension 0 (MODTEST) (net.minecraft.server.integrated.IntegratedServer@23e7fedb)
+[10:42:55] [Server thread/INFO]: Loading dimension 1 (MODTEST) (net.minecraft.server.integrated.IntegratedServer@23e7fedb)
+[10:42:55] [Server thread/INFO]: Loading dimension -1 (MODTEST) (net.minecraft.server.integrated.IntegratedServer@23e7fedb)
+[10:42:55] [Server thread/INFO]: Preparing start region for level 0
+[10:42:55] [Server thread/INFO]: Changing view distance to 12, from 10
+[10:42:56] [Netty Local Client IO #1/INFO]: Server protocol version 2
+[10:42:56] [Netty Server IO #3/INFO]: Client protocol version 2
+[10:42:56] [Netty Server IO #3/INFO]: Client attempting to join with 4 mods : FML@8.0.99.99,Forge@11.15.1.1722,mcp@9.19,examplemod@1.0
+[10:42:56] [Netty Local Client IO #1/INFO]: [Netty Local Client IO #1] Client side modded connection established
+[10:42:56] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[10:42:56] [Server thread/INFO]: [Server thread] Server side modded connection established
+[10:42:56] [Server thread/INFO]: Player862[local:E:60137054] logged in with entity id 3352 at (-1104.5, 4.0, -304.5)
+[10:42:56] [Server thread/INFO]: Player862 joined the game
+[10:43:00] [Server thread/INFO]: Player862 has just earned the achievement [Taking Inventory]
+[10:43:00] [Client thread/INFO]: [CHAT] Player862 has just earned the achievement [Taking Inventory]
+[10:46:21] [Client thread/INFO]: Stopping!
+[10:46:21] [Client thread/INFO]: SoundSystem shutting down...
+[10:46:21] [Server thread/INFO]: Stopping server
+[10:46:21] [Server thread/INFO]: Saving players
+[10:46:21] [Server thread/INFO]: Saving worlds
+[10:46:21] [Server thread/INFO]: Saving chunks for level 'MODTEST'/Overworld
+[10:46:21] [Server thread/INFO]: Saving chunks for level 'MODTEST'/Nether
+[10:46:21] [Server thread/INFO]: Saving chunks for level 'MODTEST'/The End
+[10:46:22] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[10:46:22] [Client Shutdown Thread/INFO]: Stopping server
+[10:46:22] [Client Shutdown Thread/INFO]: Saving players
+[10:46:22] [Client Shutdown Thread/INFO]: Saving worlds
+[10:46:22] [Client Shutdown Thread/INFO]: Saving chunks for level 'MODTEST'/Overworld
+[10:46:22] [Client Shutdown Thread/INFO]: Saving chunks for level 'MODTEST'/Nether
+[10:46:22] [Client Shutdown Thread/INFO]: Saving chunks for level 'MODTEST'/The End

@@ -1,0 +1,7 @@
+INFO:  Adding File to context from classpath: /Users/sandicashiola/Desktop/ApplePieMod/gradle/wrapper/gradle-wrapper.jar
+INFO:  Adding File to context from classpath: /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/resources.jar
+INFO:  Adding File to context from classpath: /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar
+INFO:  Adding File to context from classpath: /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jsse.jar
+INFO:  Adding File to context from classpath: /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jce.jar
+INFO:  Adding File to context from classpath: /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/charsets.jar
+INFO:  Adding File to context from classpath: /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfr.jar
